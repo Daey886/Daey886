@@ -55,7 +55,6 @@
 | :--- | :---: | :--- |
 | [**xhs-study-pdf**](https://github.com/Daey886/xhs-study-pdf) | `Python` | 纯净免登录小红书图文转 PDF 工具，内置启发式去杂与短链解析 |
 | [**music-monitor**](https://github.com/Daey886/music-monitor) | `Python` | 多平台榜单与歌单编排监控，自动择优检索与音质管理 |
-| [**feedsieve**](https://github.com/Daey886/feedsieve) | `TypeScript` | 轻量信息流筛选与过滤工具 |
 
 ---
 
