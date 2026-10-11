@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Daey886?label=Followers&style=flat-square&color=2ea043)](https://github.com/Daey886)
 [![GitHub stars](https://img.shields.io/github/stars/Daey886?style=flat-square&color=ffd21e)](https://github.com/Daey886)
-[![Visitors](https://komarev.com/ghpvc/?username=Daey886&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/Daey886)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Daey886.Daey886&left_color=gray&right_color=green)](https://github.com/Daey886)
 
 </div>
 
