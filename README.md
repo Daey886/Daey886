@@ -3,7 +3,7 @@
 # 🌲 Hey there, I'm 木头 (Daey886) 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Building+neat+tools+%26+scripts;Exploring+AI+Agents+%26+Automation;HomeLab+%26+Self-hosted+enthusiast;Turning+caffeine+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Building+neat+tools+%26+edge+gateways;Exploring+AI+Agents+%26+Automation;HomeLab+%26+Self-hosted+enthusiast;Turning+caffeine+into+clean+code" alt="Typing SVG" />
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Daey886?label=Followers&style=flat-square&color=2ea043)](https://github.com/Daey886)
@@ -16,11 +16,11 @@
 
 ### 🚀 关于我 / About Me
 
-热爱探索自动化工作流、AI Agent 落地实践与个人私有云（HomeLab）搭建。喜欢把繁琐的日常操作用脚本和工具自动化搞定。
+热爱探索自动化工作流、AI Agent 落地实践、边缘网络安全与个人私有云（HomeLab）搭建。喜欢把繁琐的日常操作用脚本和工具自动化搞定。
 
-- 🛠️ **常驻技术栈**：Python、TypeScript、Docker、Shell 脚本
-- 🤖 **正在研究**：LLM Multi-Agent 架构、MCP（Model Context Protocol）、自动化效率工具
-- 🏠 **折腾领域**：NAS 私有云、私网穿透、自托管服务矩阵
+- 🛠️ **常驻技术栈**：Python、JavaScript / TypeScript、Cloudflare Workers、Docker、Shell 脚本
+- 🤖 **正在研究**：LLM Multi-Agent 架构、MCP（Model Context Protocol）、边缘安全网关与自动化效率工具
+- 🏠 **折腾领域**：NAS 私有云、边缘计算、私网穿透、自托管服务矩阵
 - 🎯 **座右铭**：*“Talk is cheap, show me the automation.”*
 
 ---
@@ -29,16 +29,17 @@
 
 <div align="left">
 
-**Languages & Frameworks**
+**Languages & Runtimes**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
 
-**DevOps & Infrastructure**
+**Cloud, Edge & Infrastructure**
 <br/>
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
@@ -51,9 +52,10 @@
 
 ### 📦 个人开源精选 / Featured Projects
 
-| 项目 / Repository | 语言 | 说明 |
+| 项目 / Repository | 语言 / 平台 | 说明 |
 | :--- | :---: | :--- |
-| [**xhs-study-pdf**](https://github.com/Daey886/xhs-study-pdf) | `Python` | 纯净免登录小红书图文转 PDF 工具，内置启发式去杂与短链解析 |
+| [**cf-edge-gateway**](https://github.com/Daey886/cf-edge-gateway) | `Cloudflare Workers` / `JS` | 边缘邮件安全网关：防轰炸频控、防钓鱼仿冒、恶意附件过滤与三级智能分流，支持 CI/CD 自动化部署 |
+| [**xhs-study-pdf**](https://github.com/Daey886/xhs-study-pdf) | `Python` | 专为学习资料提取打造的纯净小红书图文转 PDF 工具，内置启发式去杂与短链解析 |
 | [**music-monitor**](https://github.com/Daey886/music-monitor) | `Python` | 多平台榜单与歌单编排监控，自动择优检索与音质管理 |
 
 ---
