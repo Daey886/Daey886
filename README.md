@@ -3,11 +3,11 @@
 # 🌲 Hey there, I'm 木头 (Daey886) 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Building+neat+tools+%26+edge+gateways;Exploring+AI+Agents+%26+Automation;HomeLab+%26+Self-hosted+enthusiast;Turning+caffeine+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=560&lines=Building+AI+gateways+%26+automation+tools;Exploring+AI+Agents+%26+MCP;HomeLab+%26+self-hosted+infrastructure;Turning+complex+workflows+into+clean+tools" alt="Typing SVG" />
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Daey886?label=Followers&style=flat-square&color=2ea043)](https://github.com/Daey886)
-[![GitHub stars](https://img.shields.io/github/stars/Daey886?style=flat-square&color=ffd21e)](https://github.com/Daey886)
+[![GitHub stars](https://img.shields.io/github/stars/Daey886?style=flat-square&color=ffd21e)](https://github.com/Daey886?tab=repositories)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Daey886.Daey886&left_color=gray&right_color=green)](https://github.com/Daey886)
 
 </div>
@@ -16,11 +16,12 @@
 
 ### 🚀 关于我 / About Me
 
-热爱探索自动化工作流、AI Agent 落地实践、边缘网络安全与个人私有云（HomeLab）搭建。喜欢把繁琐的日常操作用脚本和工具自动化搞定。
+专注于 AI 网关、自动化工作流、边缘网络安全和自托管基础设施。喜欢把复杂、重复、容易出错的操作，沉淀成可复用的工具和稳定的发布流程。
 
-- 🛠️ **常驻技术栈**：Python、JavaScript / TypeScript、Cloudflare Workers、Docker、Shell 脚本
-- 🤖 **正在研究**：LLM Multi-Agent 架构、MCP（Model Context Protocol）、边缘安全网关与自动化效率工具
-- 🏠 **折腾领域**：NAS 私有云、边缘计算、私网穿透、自托管服务矩阵
+- 🛠️ **常用技术**：Python、JavaScript / TypeScript、Node.js、Shell、Docker
+- 🤖 **持续探索**：LLM Agent、MCP、模型路由、AI 用量与账号管理自动化
+- 🌐 **基础设施**：Cloudflare Workers、Linux、NAS、私有云与安全边缘服务
+- 📦 **工程习惯**：自动化测试、GitHub Actions、可验证发布、面向用户的文档
 - 🎯 **座右铭**：*“Talk is cheap, show me the automation.”*
 
 ---
@@ -42,9 +43,8 @@
 <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model%20Context%20Protocol-8A2BE2?style=flat-square&logo=mcp&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model_Context_Protocol-8A2BE2?style=flat-square&logo=mcp&logoColor=white"/>
 
 </div>
 
@@ -52,11 +52,12 @@
 
 ### 📦 个人开源精选 / Featured Projects
 
-| 项目 / Repository | 语言 / 平台 | 说明 |
+| 项目 / Repository | 技术 / Platform | 说明 |
 | :--- | :---: | :--- |
-| [**cf-edge-gateway**](https://github.com/Daey886/cf-edge-gateway) | `Cloudflare Workers` / `JS` | 边缘邮件安全网关：防轰炸频控、防钓鱼仿冒、恶意附件过滤与三级智能分流，支持 CI/CD 自动化部署 |
-| [**xhs-study-pdf**](https://github.com/Daey886/xhs-study-pdf) | `Python` | 专为学习资料提取打造的纯净小红书图文转 PDF 工具，内置启发式去杂与短链解析 |
-| [**music-monitor**](https://github.com/Daey886/music-monitor) | `Python` | 多平台榜单与歌单编排监控，自动择优检索与音质管理 |
+| [**ProxyHub**](https://github.com/Daey886/ProxyHub) | `JavaScript` / Clash | Clash/Mihomo 全局扩展脚本：统一策略组、分流规则和远程版本展示，支持清理原订阅策略与规则 |
+| [**cf-edge-gateway**](https://github.com/Daey886/cf-edge-gateway) | `Cloudflare Workers` | 边缘邮件安全网关：防轰炸频控、防钓鱼仿冒、恶意附件过滤与三级智能分流 |
+| [**xhs-study-pdf**](https://github.com/Daey886/xhs-study-pdf) | `Python` | 小红书图文资料转 PDF，支持游客解析、短链解构、广告杂图过滤和 A4 高清导出 |
+| [**music-monitor**](https://github.com/Daey886/music-monitor) | `Python` | 网易云、QQ、酷狗和 Apple Music 榜单/歌单监控，自动择优下载指定音质 |
 
 ---
 
@@ -74,5 +75,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ 感谢访问我的 GitHub！如果觉得我的开源项目对你有帮助，欢迎点个 Star 鼓励一下~</sub>
+  <sub>⭐️ 感谢访问我的 GitHub！如果项目对你有帮助，欢迎点个 Star 鼓励一下~</sub>
 </div>
