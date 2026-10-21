@@ -106,28 +106,15 @@ fun_fact: "我的浏览器会被 AI 远程接管，然后帮我干活 🤖🖱�
 
 <br>
 
-## 🌟 Featured Projects <sub>(← 左右滑动查看)</sub>
+## 🌟 Projects
 
-<div align="center">
-  <table><tr>
-    <td><a href="https://github.com/Daey886/hrc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=hrc&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-    <td><a href="https://github.com/Daey886/ProxyHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=ProxyHub&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-    <td><a href="https://github.com/Daey886/aiduMEI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=aiduMEI&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-    <td><a href="https://github.com/Daey886/10router-patch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=10router-patch&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-  </tr><tr>
-    <td><a href="https://github.com/Daey886/freenodes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=freenodes&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-    <td><a href="https://github.com/Daey886/cf-edge-gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=cf-edge-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-    <td><a href="https://github.com/Daey886/xhs-study-pdf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=xhs-study-pdf&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-    <td><a href="https://github.com/Daey886/music-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=music-monitor&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-  </tr></table>
-</div>
+| 项目 | 简介 | 语言 |
+|---|---|---|
+| **[hrc](https://github.com/Daey886/hrc)** | 🎮 让 AI Agent 远程接管浏览器 · CDP 级真实控制 · Chrome/Edge/Firefox | JavaScript |
+| **[aiduMEI](https://github.com/Daey886/aiduMEI)** | ⚕ 爱嘟优忆思 · 智能体通用记忆智慧引擎 | Python |
+| **[ProxyHub](https://github.com/Daey886/ProxyHub)** | 🔌 多平台代理规则聚合与自动分发中心 | Python |
+| **[cf-edge-gateway](https://github.com/Daey886/cf-edge-gateway)** | 🛡 Cloudflare Workers 边缘邮件安全网关 | JavaScript |
+| **[xhs-study-pdf](https://github.com/Daey886/xhs-study-pdf)** | 📄 小红书图文转 PDF · 过滤广告 · 免登录 · A4 高清 | Python |
+| **[music-monitor](https://github.com/Daey886/music-monitor)** | 🎵 网易云/QQ/酷狗/Apple 榜单监控 · 自动择优下载 | Python |
 
-<br>
-
-### 🚗 Embedded & Voice
-
-<div align="center">
-  <table><tr>
-    <td><a href="https://github.com/Daey886/ZeroAuto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=ZeroAuto&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
-  </tr></table>
-</div>
+> 💡 还有若干私有项目在悄悄生长 🌱
