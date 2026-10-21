@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Daey886&fontSize=42&fontColor=fff&animation=fadeIn&desc=AI%20Gateway%20%C2%B7%20Automation%20%C2%B7%20Edge%20Security%20%C2%B7%20Self-Hosted&descSize=16&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daey886&fontSize=48&fontColor=fff&animation=fadeIn&desc=AI%20Gateway%20%C2%B7%20Automation%20%C2%B7%20Edge%20Security%20%C2%B7%20Self-Hosted&descSize=16&descAlignY=78&descAlign=center" width="100%" />
 
 </div>
 
