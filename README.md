@@ -102,18 +102,6 @@ fun_fact: "我的浏览器会被 AI 远程接管，然后帮我干活 🤖🖱�
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔌 ProxyHub</h3>
-      <p align="center">
-        <a href="https://github.com/Daey886/ProxyHub"><b>代理规则聚合与分发中心</b></a><br>
-        <sub>Clash / Surge / Loon / QX / Shadowrocket / v2ray 多平台规则<br>
-        AI 驱动规则审计 · 自动发版 · CDN 加速</sub>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Platform-Multi-informational?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI-Audited-7C3AED?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">🎮 HRC — Hermes Remote Control</h3>
       <p align="center">
         <a href="https://github.com/Daey886/hrc"><b>让 AI 远程接管你的浏览器</b></a><br>
@@ -126,8 +114,53 @@ fun_fact: "我的浏览器会被 AI 远程接管，然后帮我干活 🤖🖱�
         <img src="https://img.shields.io/badge/Zero-Dependency-22a45d?style=flat-square" />
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">🔌 ProxyHub</h3>
+      <p align="center">
+        <a href="https://github.com/Daey886/ProxyHub"><b>代理规则聚合与分发中心</b></a><br>
+        <sub>Clash / Surge / Loon / QX / Shadowrocket / v2ray 多平台规则<br>
+        AI 驱动规则审计 · 自动发版 · CDN 加速</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Platform-Multi-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Audited-7C3AED?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
+
+<br>
+
+## 🗂️ All Projects
+
+### 🤖 AI & Agents
+
+| 项目 | 说明 | 技术栈 |
+|---|---|---|
+| **[HRC](https://github.com/Daey886/hrc)** | 让 AI Agent 远程接管浏览器（CDP 级真实控制） | ![JS](https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[aiduMEI](https://github.com/Daey886/aiduMEI)** ⚕ | 爱嘟优忆思 · 智能体通用记忆智慧引擎，全龄段优秀记忆系统 | ![Py](https://img.shields.io/badge/Py-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+### 🌐 Network & Edge Infrastructure
+
+| 项目 | 说明 | 技术栈 |
+|---|---|---|
+| **[ProxyHub](https://github.com/Daey886/ProxyHub)** | 多平台代理规则聚合与自动分发中心 | ![Py](https://img.shields.io/badge/Py-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[freenodes](https://github.com/Daey886/freenodes)** | 全网开源免费节点自动聚合与清洗，Actions 每 6 小时抓取去重 | ![Py](https://img.shields.io/badge/Py-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[cf-edge-gateway](https://github.com/Daey886/cf-edge-gateway)** | Cloudflare Workers 边缘邮件安全网关：防轰炸/钓鱼/附件过滤/智能分流 | ![JS](https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[10router-patch](https://github.com/Daey886/10router-patch)** | 本地 AI 路由网关 & 仪表盘，`npm i -g @techysy/10router` | ![JS](https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+### 🛠️ Practical Tools
+
+| 项目 | 说明 | 技术栈 |
+|---|---|---|
+| **[xhs-study-pdf](https://github.com/Daey886/xhs-study-pdf)** | 小红书图文转 PDF 学习资料提取器：自动过滤广告、免登录、A4 高清 | ![Py](https://img.shields.io/badge/Py-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[music-monitor](https://github.com/Daey886/music-monitor)** | 网易云/QQ/酷狗/Apple 榜单监控，自动择优下载指定音质 | ![Py](https://img.shields.io/badge/Py-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+### 🚗 Embedded & Voice
+
+| 项目 | 说明 | 技术栈 |
+|---|---|---|
+| **[ZeroAuto](https://github.com/Daey886/ZeroAuto)** | 车规级极致性能 · 纯本地离线优先 · 拟人情感化座舱语音伴侣 | ![Kt](https://img.shields.io/badge/Kt-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 
 <br>
 
