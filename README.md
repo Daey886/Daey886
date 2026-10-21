@@ -72,15 +72,24 @@ fun_fact: "我的浏览器会被 AI 远程接管，然后帮我干活 🤖🖱�
 
 <br>
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Stats <sub>(← 左右滑动查看)</sub>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Daey886&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daey886&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Daey886&theme=tokyonight&hide_border=true&background=0D1117&locale=cn" height="170" />
+  <table>
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Daey886&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daey886&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-streak-stats.freencodei.com?user=Daey886&theme=tokyonight&hide_border=true&background=0D1117&locale=cn" />
+        <br>
+        <sub><a href="https://streak-stats.demolab.com">备用源</a></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -97,122 +106,28 @@ fun_fact: "我的浏览器会被 AI 远程接管，然后帮我干活 🤖🖱�
 
 <br>
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects <sub>(← 左右滑动查看)</sub>
 
-<!-- 统一尺寸的 repo pin 卡片，两列严格对齐 -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Daey886/hrc">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=hrc&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Daey886/ProxyHub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=ProxyHub&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <table><tr>
+    <td><a href="https://github.com/Daey886/hrc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=hrc&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+    <td><a href="https://github.com/Daey886/ProxyHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=ProxyHub&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+    <td><a href="https://github.com/Daey886/aiduMEI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=aiduMEI&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+    <td><a href="https://github.com/Daey886/10router-patch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=10router-patch&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+  </tr><tr>
+    <td><a href="https://github.com/Daey886/freenodes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=freenodes&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+    <td><a href="https://github.com/Daey886/cf-edge-gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=cf-edge-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+    <td><a href="https://github.com/Daey886/xhs-study-pdf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=xhs-study-pdf&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+    <td><a href="https://github.com/Daey886/music-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=music-monitor&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+  </tr></table>
 </div>
 
 <br>
-
-## 🗂️ All Projects
-
-### 🤖 AI & Agents
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Daey886/aiduMEI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=aiduMEI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Daey886/10router-patch">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=10router-patch&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🌐 Network & Edge Infrastructure
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Daey886/freenodes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=freenodes&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Daey886/cf-edge-gateway">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=cf-edge-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🛠️ Practical Tools
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Daey886/xhs-study-pdf">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=xhs-study-pdf&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Daey886/music-monitor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=music-monitor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### 🚗 Embedded & Voice
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%"></td>
-      <td width="50%">
-        <a href="https://github.com/Daey886/ZeroAuto">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=ZeroAuto&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <table><tr>
+    <td><a href="https://github.com/Daey886/ZeroAuto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daey886&repo=ZeroAuto&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a></td>
+  </tr></table>
 </div>
-
-<br>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/Daey886"><img src="https://img.shields.io/badge/GitHub-Daey886-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daey886&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Coffee- welcomed%20%E2%98%95-F9E9D2?style=for-the-badge" />
-</div>
-
-<br>
-
-<h3 align="center">⭐️ From <a href="https://github.com/Daey886">Daey886</a></h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
