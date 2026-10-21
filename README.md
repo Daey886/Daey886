@@ -1,79 +1,154 @@
+<h1 align="center">
+  <a href="https://github.com/Daey886">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+%F0%9F%AA%B5+%E6%9C%A8%E5%A4%B4+(Daey886);AI+Gateway+%C2%B7+Automation+%C2%B7+Self-Hosting;Build+tools%2C+not+todo+lists." alt="Typing SVG" />
+  </a>
+</h1>
+
 <div align="center">
 
-# 🌲 Hey there, I'm 木头 (Daey886) 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Daey886&fontSize=42&fontColor=fff&animation=fadeIn&desc=AI%20Gateway%20%C2%B7%20Automation%20%C2%B7%20Edge%20Security%20%C2%B7%20Self-Hosted&descSize=16&descAlignY=68" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=560&lines=Building+AI+gateways+%26+automation+tools;Exploring+AI+Agents+%26+MCP;HomeLab+%26+self-hosted+infrastructure;Turning+complex+workflows+into+clean+tools" alt="Typing SVG" />
+</div>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me / 关于我
+
+```yaml
+name: 木头 (Daey886)
+located_in: China
+current_focus:
+  - AI Gateway & LLM Infrastructure
+  - Workflow Automation & RPA-ish Agents
+  - Edge Network Security
+  - Self-Hosted Everything
+philosophy: "把复杂、重复、易错的操作，沉淀成可复用的工具和稳定的流程。"
+learning_now: [Rust, eBPF, Multi-agent Orchestration]
+fun_fact: "我的浏览器会被 AI 远程接管，然后帮我干活 🤖🖱️"
+```
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack & Tools
+
+<div align="center">
+
+<h4>💻 Languages</h4>
+<p>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://developer.mozilla.org" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" /></a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://skillicons.dev/icons?i=rust" /></a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Daey886?label=Followers&style=flat-square&color=2ea043)](https://github.com/Daey886)
-[![GitHub stars](https://img.shields.io/github/stars/Daey886?style=flat-square&color=ffd21e)](https://github.com/Daey886?tab=repositories)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Daey886.Daey886&left_color=gray&right_color=green)](https://github.com/Daey886)
-
-</div>
-
----
-
-### 🚀 关于我 / About Me
-
-专注于 AI 网关、自动化工作流、边缘网络安全和自托管基础设施。喜欢把复杂、重复、容易出错的操作，沉淀成可复用的工具和稳定的发布流程。
-
-- 🛠️ **常用技术**：Python、JavaScript / TypeScript、Node.js、Shell、Docker
-- 🤖 **持续探索**：LLM Agent、MCP、模型路由、AI 用量与账号管理自动化
-- 🌐 **基础设施**：Cloudflare Workers、Linux、NAS、私有云与安全边缘服务
-- 📦 **工程习惯**：自动化测试、GitHub Actions、可验证发布、面向用户的文档
-- 🎯 **座右铭**：*“Talk is cheap, show me the automation.”*
-
----
-
-### 🧰 技术栈与工具箱 / Tech Stack
-
-<div align="left">
-
-**Languages & Runtimes**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-
-**Cloud, Edge & Infrastructure**
-<br/>
-<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model_Context_Protocol-8A2BE2?style=flat-square&logo=mcp&logoColor=white"/>
-
-</div>
-
----
-
-### 📦 个人开源精选 / Featured Projects
-
-| 项目 / Repository | 技术 / Platform | 说明 |
-| :--- | :---: | :--- |
-| [**ProxyHub**](https://github.com/Daey886/ProxyHub) | `JavaScript` / Clash | Clash/Mihomo 全局扩展脚本：统一策略组、分流规则和远程版本展示，支持清理原订阅策略与规则 |
-| [**cf-edge-gateway**](https://github.com/Daey886/cf-edge-gateway) | `Cloudflare Workers` | 边缘邮件安全网关：防轰炸频控、防钓鱼仿冒、恶意附件过滤与三级智能分流 |
-| [**xhs-study-pdf**](https://github.com/Daey886/xhs-study-pdf) | `Python` | 小红书图文资料转 PDF，支持游客解析、短链解构、广告杂图过滤和 A4 高清导出 |
-| [**music-monitor**](https://github.com/Daey886/music-monitor) | `Python` | 网易云、QQ、酷狗和 Apple Music 榜单/歌单监控，自动择优下载指定音质 |
-
----
-
-### 📊 GitHub 状态概览 / Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daey886&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daey886&layout=compact&theme=radical&hide_border=true" height="150" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daey886&theme=radical&hide_border=true" alt="GitHub Streak" />
+<h4>🛠 Frameworks & Platforms</h4>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vue" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nginx" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 </p>
 
----
+<h4>🗄️ Databases & Ops</h4>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongo" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=grafana" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
+</p>
+
+</div>
+
+<br>
+
+## ⚡ GitHub Stats
 
 <div align="center">
-  <sub>⭐️ 感谢访问我的 GitHub！如果项目对你有帮助，欢迎点个 Star 鼓励一下~</sub>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Daey886&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daey886&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Daey886&theme=tokyonight&hide_border=true&background=0D1117&locale=cn" height="170" />
+</div>
+
+<br>
+
+## 🐍 Contribution Graph Snake (eats my contributions)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daey886/Daey886/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daey886/Daey886/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Daey886/Daey886/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔌 ProxyHub</h3>
+      <p align="center">
+        <a href="https://github.com/Daey886/ProxyHub"><b>代理规则聚合与分发中心</b></a><br>
+        <sub>Clash / Surge / Loon / QX / Shadowrocket / v2ray 多平台规则<br>
+        AI 驱动规则审计 · 自动发版 · CDN 加速</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Platform-Multi-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Audited-7C3AED?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 HRC — Hermes Remote Control</h3>
+      <p align="center">
+        <a href="https://github.com/Daey886/hrc"><b>让 AI 远程接管你的浏览器</b></a><br>
+        <sub>MV3 扩展 + 零依赖中转服务 + Agent 技能卡<br>
+        CDP 级真实控制 · 多设备路由 · Chrome / Edge / Firefox</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Chrome-CDP-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firefox-WebExt-FF7139?style=flat-square&logo=firefox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zero-Dependency-22a45d?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/Daey886"><img src="https://img.shields.io/badge/GitHub-Daey886-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daey886&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Coffee- welcomed%20%E2%98%95-F9E9D2?style=for-the-badge" />
+</div>
+
+<br>
+
+<h3 align="center">⭐️ From <a href="https://github.com/Daey886">Daey886</a></h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
